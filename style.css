@@ -12,7 +12,11 @@
 .w3-medium{
     color: rgb(128, 125, 125);
     font-size: 12px;
+    
 }
 footer a {
     color: rgb(128, 125, 125);
+}
+.footer i:hover{
+    color: wheat;
 }
